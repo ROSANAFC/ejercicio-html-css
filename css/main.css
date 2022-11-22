@@ -1,0 +1,31 @@
+
+h1{
+  text-align: center;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.title{
+  background-color: grey;
+  margin-top: 5%;
+}
+
+.title h2{
+  text-align: left;
+  padding: 1%;
+}
+
+.content{
+  margin-top: 2%;
+  margin-left: 10%;
+  margin-right: 10%;
+  font-size: 16px;
+  vertical-align: text-top; 
+}
+
+.verticalalign{
+  display: flex;
+  width: 8%;
+  margin-right: 2%;
+  margin-bottom: 2%;
+}

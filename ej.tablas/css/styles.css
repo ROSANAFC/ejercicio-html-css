@@ -1,0 +1,74 @@
+
+    table,th,td
+    {
+      border:2px solid black;
+    }
+    table
+    {
+      border-collapse:collapse;
+      width:20%;
+    }
+    td
+    {
+      height:50px;
+    }
+    tr
+    {
+      color:black;
+    }
+    th
+    {
+      color:black;
+    }
+    .title{
+        background-color:green;
+    }
+    .black{
+        background-color: black;
+    }
+    .teal{
+        background-color: teal;
+    }
+    .blue{
+        background-color: blue;
+    }
+    .navy{
+        background-color: navy;
+    }
+    .lime{
+        background-color: lime;
+    }
+    .white{
+        background-color: white;
+    }
+
+    .purple{
+        background-color: purple;
+    }
+    .yellow{
+        background-color: yellow;
+    }
+    .olive{
+        background-color: olive;
+    }
+    .red{
+        background-color: red;
+    }
+    .marron{
+        background-color: brown;
+    }
+    .grey{
+        background-color: grey;
+    }
+    .olive2{
+        background-color: olive;
+    }
+    .red2{
+        background-color: red;
+    }
+    .fuchsia{
+        background-color: fuchsia;
+    }
+    .green2{
+        background-color: green;
+    }
